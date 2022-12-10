@@ -1,3 +1,4 @@
+<!-- Fetch API -->
 <script setup>
     const { data: reviewers } = await useFetch('https://randomuser.me/api/?results=3')
 </script>

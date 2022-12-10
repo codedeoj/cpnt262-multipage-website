@@ -1,7 +1,3 @@
-<script setup>
-  
-</script>
-
 <template>
   <div class="px-4">
     <div class="max-w-3xl bg-gray-900 rounded-lg mx-auto my-16 p-12 shadow-lg">
