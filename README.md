@@ -1,42 +1,26 @@
-# Nuxt 3 Minimal Starter
+# cpnt-262-multipage-website
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+**Course title:** CPNT 262
 
-## Setup
+**Assignment name:** Team Project - Multipage Website
 
-Make sure to install the dependencies:
+**Author:** Deoj Balcanao
 
-```bash
-# yarn
-yarn install
+## Attributions
+**Nuxt Docs** - https://nuxt.com/docs/getting-started/data-fetching
 
-# npm
-npm install
+**Tutorial by The Net Ninja** - https://www.youtube.com/watch?v=tGhMaMIYRiI&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC&index=8
 
-# pnpm
-pnpm install --shamefully-hoist
-```
+**Tutorial by Laith Academy** - https://www.youtube.com/watch?v=Wdmi4k7sFzU&t=10142s
 
-## Development Server
+**Random API** - https://randomuser.me/
 
-Start the development server on http://localhost:3000
+**Images by Pexels:**
 
-```bash
-npm run dev
-```
+https://www.pexels.com/photo/three-persons-sitting-on-the-stairs-talking-with-each-other-1438072/
 
-## Production
+https://www.pexels.com/photo/group-of-people-gathered-around-wooden-table-3184360/
 
-Build the application for production:
+https://www.pexels.com/photo/photograph-of-men-having-conversation-seating-on-chair-1015568/
 
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+https://www.pexels.com/photo/women-colleagues-gathered-inside-conference-room-1181622/
