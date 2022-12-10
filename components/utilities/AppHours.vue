@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center gap-10 text-lg font-semibold my-10">
+  <div class="flex flex-wrap w-full justify-center gap-10 text-lg font-semibold my-10">
     <div class="mr-5">
       <h2>DOWNTOWN CALGARY</h2>
       <p>123 Edward St (Suite 217)</p>

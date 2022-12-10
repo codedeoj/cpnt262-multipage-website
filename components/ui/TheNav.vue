@@ -1,6 +1,6 @@
 <template>
   <nav class="flex p-5 justify-center items-center bg-gray-900 text-white">
-    <ul class="flex gap-10">
+    <ul class="flex flex-wrap justify-center items-center gap-10">
       <li>
         <NuxtLink to="/" class="text-xl font-semibold hover:underline">Home</NuxtLink>
       </li>

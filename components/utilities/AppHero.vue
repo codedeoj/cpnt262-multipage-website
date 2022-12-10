@@ -24,7 +24,7 @@
 <template>
   <main class="mx-auto mt-10 py-20 px-20 max-w-7xl shadow-xl">
     <div>
-      <h1 class="text-4xl sm:text-5xl md:text-6xl text-gray-900 font-extrabold ">
+      <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-gray-900 font-extrabold ">
         {{ info.title }}
       </h1>
       <p class="mt-8 text-gray-500 max-w-xl text-xl mx-0">
