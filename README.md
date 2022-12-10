@@ -6,8 +6,52 @@
 
 **Author:** Deoj Balcanao
 
+## Components
+**Layout** 
+- PageHeader
+- AppSectionHeader
+- CardLayout
+- AppSection
+
+**UI**
+- TheFooter
+- TheNav
+
+**Utilities**
+- AppCard
+- AppForm
+- AppHero
+- AppHours
+- AppReviews
+  - Fetch API
+- Reviews
+- BlogSection
+- FeaturesCard
+
+## Site Pages
+**Home**
+- Hero Section
+- Feature Services
+- Reviews
+
+**Services**
+- Services Cards
+
+**About**
+- Team Page
+- Images
+
+**Blog**
+- Blog Posts
+
+**Contact**
+- Form
+- Hours
+
 ## Attributions
-**Nuxt Docs** - https://nuxt.com/docs/getting-started/data-fetching
+**Nuxt docs** - https://nuxt.com/docs/getting-started/data-fetching
+
+**Tailwind docs** - https://tailwindcss.com/docs/responsive-design
 
 **Tutorial by The Net Ninja** - https://www.youtube.com/watch?v=tGhMaMIYRiI&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC&index=8
 
@@ -15,7 +59,7 @@
 
 **Random API** - https://randomuser.me/
 
-**Images by Pexels:**
+**Images from Pexels:**
 
 https://www.pexels.com/photo/three-persons-sitting-on-the-stairs-talking-with-each-other-1438072/
 
