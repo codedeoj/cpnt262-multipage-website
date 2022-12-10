@@ -17,21 +17,21 @@
         </div>
         <div>
           <img
-            src="public/images/team-1.jpg"
+            src="public/images/team-2.jpg"
             alt="Team Photos"
             class="max-h-80"
           />
         </div>
         <div>
           <img
-            src="public/images/team-1.jpg"
+            src="public/images/team-3.jpg"
             alt="Team Photos"
             class="max-h-80"
           />
         </div>
         <div>
           <img
-            src="public/images/team-1.jpg"
+            src="public/images/team-4.jpg"
             alt="Team Photos"
             class="max-h-80"
           />
