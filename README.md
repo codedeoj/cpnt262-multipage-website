@@ -1,42 +1,70 @@
-# Nuxt 3 Minimal Starter
+# cpnt-262-multipage-website
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+**Course title:** CPNT 262
 
-## Setup
+**Assignment name:** Team Project - Multipage Website
 
-Make sure to install the dependencies:
+**Author:** Deoj Balcanao
 
-```bash
-# yarn
-yarn install
+## Components
+**Layout** 
+- PageHeader
+- AppSectionHeader
+- CardLayout
+- AppSection
 
-# npm
-npm install
+**UI**
+- TheFooter
+- TheNav
 
-# pnpm
-pnpm install --shamefully-hoist
-```
+**Utilities**
+- AppCard
+- AppForm
+- AppHero
+- AppHours
+- AppReviews
+  - Fetch API
+- Reviews
+- BlogSection
+- FeaturesCard
 
-## Development Server
+## Site Pages
+**Home**
+- Hero Section
+- Feature Services
+- Reviews
 
-Start the development server on http://localhost:3000
+**Services**
+- Services Cards
 
-```bash
-npm run dev
-```
+**About**
+- Team Page
+- Images
 
-## Production
+**Blog**
+- Blog Posts
 
-Build the application for production:
+**Contact**
+- Form
+- Hours
 
-```bash
-npm run build
-```
+## Attributions
+**Nuxt docs** - https://nuxt.com/docs/getting-started/data-fetching
 
-Locally preview production build:
+**Tailwind docs** - https://tailwindcss.com/docs/responsive-design
 
-```bash
-npm run preview
-```
+**Tutorial by The Net Ninja** - https://www.youtube.com/watch?v=tGhMaMIYRiI&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC&index=8
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+**Tutorial by Laith Academy** - https://www.youtube.com/watch?v=Wdmi4k7sFzU&t=10142s
+
+**Random API** - https://randomuser.me/
+
+**Images from Pexels:**
+
+https://www.pexels.com/photo/three-persons-sitting-on-the-stairs-talking-with-each-other-1438072/
+
+https://www.pexels.com/photo/group-of-people-gathered-around-wooden-table-3184360/
+
+https://www.pexels.com/photo/photograph-of-men-having-conversation-seating-on-chair-1015568/
+
+https://www.pexels.com/photo/women-colleagues-gathered-inside-conference-room-1181622/
