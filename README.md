@@ -6,6 +6,8 @@
 
 **Author:** Deoj Balcanao
 
+[Netlify Link](https://evolving-web-technologies.netlify.app/)
+
 ## Components
 **Layout** 
 - PageHeader
