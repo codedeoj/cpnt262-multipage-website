@@ -10,29 +10,29 @@
       <div class="flex justify-center flex-wrap gap-5 mx-auto max-w-6xl my-8 text-2xl">
         <div>
           <img
-            src="images/team-1.jpg"
-            alt="Hero image"
+            src="public/images/team-1.jpg"
+            alt="Team Photos"
             class="max-h-80"
           />
         </div>
         <div>
           <img
-            src="images/team-2.jpg"
-            alt="Hero image"
+            src="public/images/team-1.jpg"
+            alt="Team Photos"
             class="max-h-80"
           />
         </div>
         <div>
           <img
-            src="images/team-3.jpg"
-            alt="Hero image"
+            src="public/images/team-1.jpg"
+            alt="Team Photos"
             class="max-h-80"
           />
         </div>
         <div>
           <img
-            src="images/team-4.jpg"
-            alt="Hero image"
+            src="public/images/team-1.jpg"
+            alt="Team Photos"
             class="max-h-80"
           />
         </div>
